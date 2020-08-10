@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite001">
+	<test verbose="10" name="test001">
+		<classes>
+			<class name="com.bd.demo.TestBaidu"/>
+		</classes>
+	</test>
+</suite>
